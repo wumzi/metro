@@ -1,0 +1,20 @@
+Metro Parisien par Maxime Ernoult:
+    *  "-h". Cette option affiche l'aide en ligne du programme. A l'issue, le programme doit s'arrêter (même s'il y a d'autres options).
+
+    * "-v". Cette option affiche le copyright du programme. A l'issue, le programme doit s'arrêter (même s'il y a d'autres options).
+
+    * "-f <fichier>". Cette option permet d'indiquer au programme le nom du fichier décrivant les différentes lignes du métro ainsi que les stations qui les desservent.
+
+    * "-d <délai>". Cette option permet d'indiquer le temps moyen en secondes entre deux stations sur une même ligne. A titre indicatif, cette valeur pourrait être de 3 minutes (soient 180 secondes). Si cette option n'est pas spécifiée, sa valeur doit être demandée de manière interactive par le programme et saisie par l'utilisateur.
+
+    * "-c <délai>". Cette option permet d'indiquer le temps moyen en secondes d'une correspondance entre 2 lignes du métro. A titre indicatif, cette valeur pourrait être de 10 minutes (soient 600 secondes). Si cette option n'est pas spécifiée, sa valeur doit être demandée de manière interactive par le programme et saisie par l'utilisateur.
+
+    * "-x <station de départ>". Cette option permet d'indiquer le nom du point de départ. Si cette option n'est pas spécifiée, sa valeur doit être demandée de manière interactive par le programme et saisie par l'utilisateur.
+
+    * "-y <station d'arrivée>". Cette option permet d'indiquer le nom du point d'arrivée. Si cette option n'est pas spécifiée, sa valeur doit être demandée de manière interactive par le programme et saisie par l'utilisateur.
+
+    * "-i <station intermédiaire>". Cette option permet d'indiquer le nom d'une station intermédiaire. Il est alors obligatoire lors du transport du point de départ au point d'arrivée de passer par ce point intermédiaire. Cette option est facultative et peut être spécifiée plusieurs fois (il y aura alors plusieurs stations intermédiaire obligatoires).
+
+    * "-o". Cette option permet d'activer ou non l'optimisation dans le cas des stations intermédiaires. Si cette option n'est pas présente, le passage aux stations intermédiaires doit impérativement respecter l'ordre des stations intermédiaires spécifié par l'utilisateur. Si cette option est positionnée, le programme est alors libre de modifier l'ordre de passage aux stations intermédiaires indiqué par l'utilisateur pour rechercher un temps de transport optimal.
+
+L'ordre d'introduction des paramètres ne doit avoir aucune importance pour le fonctionnement du programme.

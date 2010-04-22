@@ -1,0 +1,136 @@
+[Ligne A]
+   Perrache
+   Ampère
+   Bellecour
+   Cordeliers
+   Hôtel de Ville
+   Foch
+   Masséna
+   Charpennes
+   République
+   Gratte-ciel
+   Flachet
+   Cusset
+   Laurent Bonnevay
+   Vaulx-en-Velin
+[Ligne B]
+   Stade de Gerland
+   Debourg
+   Place Jean Jaurès
+   Jean Macé
+   Saxe-Gambetta
+   Place Guichard
+   Part-Dieu
+   Brotteaux
+   Charpennes
+[Ligne C]
+   Hôtel de Ville
+   Croix-Paquet
+   Croix-Rousse
+   Henon
+   Cuire
+[Ligne D]
+   Gare de Vaise
+   Valmy
+   Gorge de Loup
+   Vieux Lyon
+   Bellecour
+   Guillotière
+   Saxe-Gambetta
+   Garibaldi
+   Sans-souci
+   Monplaisir-Lumière
+   Grange blanche
+   Laënnec
+   Mermoz Pinel
+   Parilly
+   Gare de Vénnissieux
+[Funiculaire 1]
+   Vieux Lyon
+   Fourvière
+[Funiculaire 2]
+   Vieux Lyon
+   Minimes
+   Saint-Just
+[Tramway T1]
+   Iut-Feyssine
+   Croix-Luiset
+   Insa-Einstein
+   La Doua-Gaston Berger
+   Université Lyon 1
+   Concurcet
+   Le Tonkin
+   Charpennes
+   Collège Bellecombe
+   Thiers-Lafayette
+   Part-Dieu
+   Part-Dieu Servient
+   Palais de Justice-Mairie de 3ème
+   Liberté
+   Guillotière
+   Saint-André
+   Rue de l'Université
+   Quai Claude Bernard
+   Perrache
+   Suchet
+   Sainte-Blandine
+   Montrochet    
+[Tramway T2]
+   Perrache
+   Centre Berthelot
+   Jean Macé
+   Garibaldi-Berthelot
+   Route de Vienne
+   Jet d'eau
+   Mendès-France
+   Villon
+   Bachut-Mairie de 8ème
+   Jean XXIII Maryse Bastié
+   Grange Blanche
+   Ambroise Paré
+   Vinatier
+   Essarts-Iris
+   Boutasse-Camille Rousset
+   Hôtel de Ville-Bron
+   Les Alizés
+   Rebufer
+   Parilly-Université
+   Europe-Université
+   Porte des Alpes
+   Parc Technologique
+   Hauts de Feuilly
+   Salvador Allende
+   Alfred de Vigny
+   St-Priest-Hôtel de Ville
+   Esplanade des Arts
+   Jules Ferry
+   Cordière
+   St-Priest Bel-Air    
+[Tramway T3]
+   Meyzieu Z.I.
+   Meyzieu Gare
+   Décines Grand Large
+   Décines Centre
+   Vaulx-en-Velin
+   Bel Air-Les Brosses
+   Gare de Villeurbanne
+   Reconaissance Balzac
+   Dauphiné Lacassagne
+[Tramway T4]
+   Jet d'eau
+   Mendès-France
+   Lycée Lumière
+   É-U Musée
+   Professeur Beauvisage
+   É-U Viviani
+   Joliot Curie
+   La Borelle
+   Gare de Vénnissieux
+   Croizat
+   Marcel Houël
+   Lycée Jacques Brel
+   Vénissy
+   Division Leclerc
+   Maurice Thorez
+   Lénine-Corsière
+   Hôpital Feyzin-Vénissieux
